@@ -1,7 +1,7 @@
 # Hey  👋
  My name is **Júlia Mendes** 👩
  -  💻 I'm a programming student
- - 📍 From RJ
+ - 📍 From RJ, Brazil
 - 🌈 I love video games, movies and TV shows
 
 **Reach me out** 👇🏼
