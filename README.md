@@ -8,3 +8,4 @@
 **Reach me out** 👇🏼
 
  [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://https://www.linkedin.com/in/juliapms/)](https://www.linkedin.com/in/juliapms/)
+ [![Linkedin Badge](//https://www.hackerrank.com/juliadepaivams)](https://www.hackerrank.com/juliadepaivams)
