@@ -2,7 +2,7 @@
  My name is **Júlia Mendes** 👩
  -  💻 I'm a programming student
  - 📍 From RJ, Brazil
- - Currently studying JavaScript and Java ☕
+ - Love for JavaScript 💛
 - 🌈 I love video games, movies and TV shows
 
 **Reach me out** 👇🏼
