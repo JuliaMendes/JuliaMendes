@@ -1,6 +1,6 @@
 # Hey  👋
  My name is **Júlia Mendes** 👩
- -  💻 I'm a programming student
+ -  💻 QA Tester
 - 🌈 I love video games, movies and TV shows
 
 **Reach me out** 👇🏼
