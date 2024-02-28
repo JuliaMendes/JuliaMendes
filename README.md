@@ -1,7 +1,7 @@
 # Hey  👋
- My name is **Júlia Mendes** 👩
+ My name is **Júlia Silva** 👩
  -  💻 QA Tester
-- 🌈 I love video games, movies and TV shows
+- 🌈 I love video games, movies, and TV shows
 
 **Reach me out** 👇🏼
 
